@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="OptionView">
+        <attr name="opt_text" format="reference|string"/>
+        <attr name="opt_text_bottom" format="reference|string"/>
+        <attr name="opt_text_right" format="reference|string"/>
+        <attr name="opt_text_size" format="reference|dimension"/>
+        <attr name="opt_text_bottom_size" format="reference|dimension"/>
+        <attr name="opt_text_right_size" format="reference|dimension"/>
+        <attr name="opt_text_color" format="reference|color"/>
+        <attr name="opt_text_bottom_color" format="reference|color"/>
+        <attr name="opt_text_right_color" format="reference|color"/>
+        <attr name="opt_icon_width" format="reference|dimension"/>
+        <attr name="opt_icon_height" format="reference|dimension"/>
+        <attr name="opt_icon" format="reference"/>
+        <attr name="opt_arrow_width" format="reference|dimension"/>
+        <attr name="opt_arrow_height" format="reference|dimension"/>
+        <attr name="opt_arrow" format="reference"/>
+        <attr name="opt_image_width" format="reference|dimension"/>
+        <attr name="opt_image_height" format="reference|dimension"/>
+        <attr name="opt_image" format="reference"/>
+        <attr name="opt_image_visible" format="boolean"/>
+        <attr name="opt_arrow_visible" format="boolean"/>
+        <attr name="opt_icon_visible" format="boolean"/>
+
+
+
+
+    </declare-styleable>
+</resources>
